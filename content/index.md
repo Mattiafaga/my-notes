@@ -6,5 +6,5 @@ Appunti di SRI:
 Appunti di TPI: 
 	-[[COMANDI DI LINUX]]
 	-[[RILOCAZIONE DI MEMORIA]]
-	-
+	-[[PROCESSI]]
 	
