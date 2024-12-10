@@ -1,6 +1,6 @@
 La **rilocazione della memoria** è un processo essenziale per la gestione della memoria nei sistemi operativi, che consente di tradurre indirizzi virtuali in indirizzi fisici. Esistono due modalità principali di rilocazione: 
 
-						Statica e Dinamica.
+				Statica e Dinamica.
 
 ### Rilocazione Statica
 
