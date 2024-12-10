@@ -1,6 +1,10 @@
 Appunti di SRI: 
-	[[LIVELLO FISICO]]
+	-[[LIVELLO FISICO]]
+	-
+	-
 
 Appunti di TPI: 
-	[[COMANDI DI LINUX]]
+	-[[COMANDI DI LINUX]]
+	-[[RILOCAZIONE DI MEMORIA]]
+	-
 	
